@@ -1,0 +1,4 @@
+﻿  UnitTest2.cpp
+C:\Users\hispe\source\repos\UnitTest2\UnitTest2.cpp(26,10): error C3861: time: идентификатор не найден
+C:\Users\hispe\source\repos\UnitTest2\UnitTest2.cpp(38,10): error C3861: time: идентификатор не найден
+C:\Users\hispe\source\repos\UnitTest2\UnitTest2.cpp(50,10): error C3861: time: идентификатор не найден
